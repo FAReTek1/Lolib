@@ -6,4 +6,7 @@ These are from people who made code not specifically for this project and should
 | Creator          | Code                          |
 | ---------------- | ------------------------------|
 
-Note: some of these scripts are sourced from external places: ChatGPT, Blender (StackExchange)
+
+Note: some of these scripts are sourced from external places: 
+ChatGPT, Blender (StackExchange)
+https://www.geeksforgeeks.org/sieve-of-atkin/ : Sieve of Atkin original implementation
