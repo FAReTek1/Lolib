@@ -3,6 +3,9 @@
 
 Scratch studio: https://scratch.mit.edu/studios/34058081
 
+Assets/code used: https://scratch.mit.edu/studios/34067337
+Suggestions: Github (here) or https://scratch.mit.edu/studios/34067347/
+
 will add more later
 
 
